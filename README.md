@@ -26,6 +26,10 @@ cd train
 pip install -e .
 ```
 
+## Datasets
+
+We open-source the dataset used in our paper. Please refer to our [huggingface repo](https://huggingface.co/datasets/htlou/stream-aligner) for more details.
+
 ## Training
 
 `stream-aligner` supports a complete pipeline for Stream Aligner <em>residual correction</em> training.
