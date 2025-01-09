@@ -1,0 +1,12 @@
+[MASTER]
+load-plugins=pygments.pygments_plugin
+
+[FORMAT]
+indent-string='    '
+
+[REPORT]
+output-format=parseable
+max-line-length=120
+
+[MESSAGES CONTROL]
+disable=C0111
